@@ -3,7 +3,7 @@
 Responsive Social Media Application- Works on Android, iOS & Web
 
 ## Features are:
-- Responsive Instagram UI
+- Responsive UI
 - Email & Password Authentication
 - Share Posts with Caption
 - Display Posts with Caption
