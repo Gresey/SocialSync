@@ -1,6 +1,6 @@
 # SocialSync
 
-A completely Responsive Social Medai Application- Works on Android, iOS & Web! 
+Responsive Social Media Application- Works on Android, iOS & Web
 
 ## Features are:
 - Responsive Instagram UI
@@ -11,14 +11,10 @@ A completely Responsive Social Medai Application- Works on Android, iOS & Web!
 - Search Users
 - Follow Users
 - Display User Posts, Followers & Following
-- Sign Out
-
-
-
 
 
 ## Installation
-After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```socialsync-clone``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
